@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "COMP2156 lab exercise",
   "main": "index.js",
+  "homepage": "https://harmans080304.github.io/COMP2156-labs/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
